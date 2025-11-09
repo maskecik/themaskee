@@ -1,16 +1,30 @@
-## Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=4CF73B&width=870&height=100&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Maske!)](https://git.io/typing-svg)
 
-<!--
-**themaskee/themaskee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a multifaceted digital creator and developer with a passion for building robust experiences and creating engaging content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Toolbox & Expertise
+
+Here's what I do:
+
+* **Minecraft Server Developer:** I specialize in creating high-performance, custom **Minecraft server plugins** (mostly using **Java**).
+* **Video Editor & Content Creator:** I produce and edit engaging **video content** for various platforms, focusing on clean cuts and impactful storytelling.
+* **Photo Designer:** I use design software (like **Photoshop/Illustrator**) to create compelling **graphics, thumbnails, and branding** materials.
+* **Developer:** Beyond Minecraft, I enjoy working on various software projects and exploring new technologies.
+
+### 🔗 Connect with Me & My Work
+
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themaskee)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/themaskee)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HEMASKE)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/maske)
+
+---
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themaskee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themaskee&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+> **Fun Fact:** I'm always looking for interesting new plugin ideas or collaborations! Feel free to open an issue or send me a DM.
